@@ -27,6 +27,7 @@
 - 💬 Ask me about React
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Beat Me
-<br/> 
+
+
 ![Harkirat's github stats](https://github-readme-stats.vercel.app/api?username=harkiratsm&show_icons=true&hide_border=true)
 <br />
