@@ -35,7 +35,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-45b8d8?style=flat-square&logo=material-ui&logoColor=white" />
-  <img alt="" src="" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-ff0000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-firebase-ffffff?style=flat-square&logo=firebase&logoColor=ffa540" />
+ 
 </p>
 
 ## I am a Student 🚀:
