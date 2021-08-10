@@ -37,6 +37,7 @@
   <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-45b8d8?style=flat-square&logo=material-ui&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-ff0000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-firebase-ffffff?style=flat-square&logo=firebase&logoColor=ffa540" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ffffff?style=flat-square&logo=Java&logoColor=add8e6">
  
 </p>
 
