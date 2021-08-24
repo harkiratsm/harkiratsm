@@ -48,9 +48,9 @@
 - 🌱 I’m currently learning KUBERNETES 
 - 👯 I’m looking to collaborate on .....
 - 🤔 I’m looking for help with 
-- 💬 Ask me about React
+- 💬 Ask me about MERN stack
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Beat Me
+- ⚡ Fun fact: Learn by doing .
 
 
 
