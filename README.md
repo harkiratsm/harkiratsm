@@ -44,9 +44,9 @@
 
 ## I am a Student 🚀:
 
-- 🔭 I’m currently working on Skills
-- 🌱 I’m currently learning KUBERNETES 
-- 👯 I’m looking to collaborate on .....
+- 🔭 I’m currently working on Personal Branding 
+- 🌱 I’m currently learning Cloud Native Tools
+- 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with 
 - 💬 Ask me about MERN stack
 - 😄 Pronouns: HE/HIM
