@@ -45,8 +45,7 @@
 
 - 🔭 I’m currently working on Personal Branding 
 - 🌱 I’m currently learning Cloud Native Tools
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on project 
 - 💬 Ask me about MERN stack
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Learn by doing .
