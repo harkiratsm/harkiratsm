@@ -3,7 +3,8 @@
 </h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning Kubernetes ;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+  
+   <a> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning Kubernetes ;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
 
@@ -11,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-My name is **Harkirat Singh** & I am a sophomore pursuing my Bachelor's in Computer Science From [Chitkara University]() . I am a **FullStack Web Developer** & passionate about **Open Source** . Open to collaborate on Projects . I Beilive in **Learn By Doing** . 
+My name is **Harkirat Singh** & I am a sophomore pursuing my Bachelor's in Computer Science From [Chitkara University](https://www.chitkara.edu.in/) . I am a **FullStack Web Developer** & passionate about **Open Source** . Open to collaborate on Projects . I Beilive in **Learn By Doing** . 
 
 <h1 align = "center">
   
@@ -19,21 +20,13 @@ My name is **Harkirat Singh** & I am a sophomore pursuing my Bachelor's in Compu
 </a> <a href="https://www.linkedin.com/in/harkiratsm/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> <a href="https://dev.to/harkiratsm" target="_blank"><img alt="Dev.to" title="Dev to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
-<a href="mailto:multaniharry714@gmail.com" target="_blank"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-harkiratsin2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+<a href="mailto:multaniharry714@gmail.com" target="_blank"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-harkiratsin2002@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
-
 
 </h1>
 
-<!-- <a href="https://www.linkedin.com/in/harkirat-singh-60a4541b6/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:multaniharry714@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a> -->
+![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=harkiratsm&theme=xcode)](https://git.io/harkiratsm)
+
 
 <br/>
 
