@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-My name is **Harkirat Singh** & I am a sophomore pursuing my Bachelor's in Computer Science From [Chitkara University](https://www.chitkara.edu.in/) . I am a **FullStack Web Developer** & passionate about **Open Source** . Open to collaborate on Projects . I Beilive in **Learn By Doing** . 
+My name is **Harkirat Singh** & I am a sophomore pursuing my Bachelor's in Computer Science From [Chitkara University](https://www.chitkara.edu.in/) . I am a **FullStack Web Developer** & passionate about **Open Source** . Open to collaborate on Projects . I Believe in > **Learn By Doing** . 
 
 <h1 align = "center">
   
