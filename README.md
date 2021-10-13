@@ -4,7 +4,7 @@
 
 <p align="center">
   
-   <a> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning Kubernetes ;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning Kubernetes ;Empowering+Others;Nice+To+Meet+You+...&center=true">
 
 </p>
 
@@ -25,7 +25,7 @@ My name is **Harkirat Singh** & I am a sophomore pursuing my Bachelor's in Compu
 
 </h1>
 
-![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=harkiratsm&theme=xcode)](https://git.io/harkiratsm)
+[![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=harkiratsm&theme=xcode)](https://git.io/harkiratsm)
 
 
 <br/>
