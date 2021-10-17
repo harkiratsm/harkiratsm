@@ -30,6 +30,12 @@ My name is **Harkirat Singh** & I am a sophomore pursuing my Bachelor's in Compu
 
 <br/>
 
+<!-- ## 🛠️ My favorite tools
+### Language 
+### Libraries  & Frameworks
+### DevOps & Cloud Tools
+ -->
+<br/>
 ## 📈 Stats
 <p align="center">
   
