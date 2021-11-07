@@ -36,7 +36,9 @@ My name is **Harkirat Singh** & I am a sophomore pursuing my Bachelor's in Compu
 ### DevOps & Cloud Tools
  -->
 <br/>
+
 ## 📈 Stats
+
 <p align="center">
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harkiratsm&show_icons=true&theme=tokyonight" />
