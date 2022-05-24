@@ -20,7 +20,7 @@ My name is **Harkirat Singh** & I am a sophomore pursuing my Bachelor's in Compu
 </a> <a href="https://www.linkedin.com/in/harkiratsm/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> <a href="https://dev.to/harkiratsm" target="_blank"><img alt="Dev.to" title="Dev to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
-<a href="mailto:multaniharry714@gmail.com" target="_blank"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-harkiratsin2002@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
+<a href="mailto:harkiratsingh.in@gmail.com" target="_blank"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-harkiratsingh.in@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
 </h1>
