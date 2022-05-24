@@ -25,7 +25,7 @@ My name is **Harkirat Singh** & I am a sophomore pursuing my Bachelor's in Compu
 
 </h1>
 
-[![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=harkiratsm&theme=xcode)](https://git.io/harkiratsm)
+[![Harkirat github activity graph](https://activity-graph.herokuapp.com/graph?username=harkiratsm&theme=xcode)](https://git.io/harkiratsm)
 
 
 <br/>
