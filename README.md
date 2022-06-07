@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi, I am Harkirat Singh ! Glad to see you here ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px"> 
+  Hi, I am Harkirat Singh ! Glad to see you here ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px" height="5px"> 
 </h3>
 
 <p align="center">
